@@ -1,0 +1,46 @@
+Linking to libgit2 v1.1.0, ssh support: YES
+Global config: /Users/josemiguelavendanoinfante/.gitconfig
+Default user: javendaXgh <javenda@gmail.com>
+                   file   status staged
+1     data/data_124.rds      new  FALSE
+2     data/data_125.rds  deleted  FALSE
+3     data/data_154.rds      new  FALSE
+4     data/data_155.rds      new  FALSE
+5      data/data_17.rds      new   TRUE
+6         gert_github.R      new  FALSE
+7       gert_github.log      new  FALSE
+8      gert_pruebas_`.R      new  FALSE
+9             git2r.log      new  FALSE
+10         git2r_loop.R      new  FALSE
+11               loop.R      new  FALSE
+12   preuba_scheduled.R      new  FALSE
+13 preuba_scheduled.log      new  FALSE
+14      prueba_git2rR.R modified  FALSE
+[1] "9496796706ae84aaaeb1f08b26b59535846d4d7e"
+Error in libgit2::git_remote_push : 
+  error authenticating: failed connecting with agent
+Calls: <Anonymous> -> raise_libgit2_error
+Ejecuci'on interrumpida
+Linking to libgit2 v1.1.0, ssh support: YES
+Global config: /Users/josemiguelavendanoinfante/.gitconfig
+Default user: javendaXgh <javenda@gmail.com>
+                   file   status staged
+1     data/data_124.rds      new  FALSE
+2     data/data_125.rds  deleted  FALSE
+3     data/data_153.rds      new   TRUE
+4     data/data_154.rds      new  FALSE
+5     data/data_155.rds      new  FALSE
+6         gert_github.R      new  FALSE
+7       gert_github.log      new  FALSE
+8      gert_pruebas_`.R      new  FALSE
+9             git2r.log      new  FALSE
+10         git2r_loop.R      new  FALSE
+11               loop.R      new  FALSE
+12   preuba_scheduled.R      new  FALSE
+13 preuba_scheduled.log      new  FALSE
+14      prueba_git2rR.R modified  FALSE
+[1] "4b7bde92a33663819479010cb116198a1d024215"
+Error in libgit2::git_remote_push : 
+  error authenticating: failed connecting with agent
+Calls: <Anonymous> -> raise_libgit2_error
+Ejecuci'on interrumpida
