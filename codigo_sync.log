@@ -309,3 +309,7 @@ $token
 
 attr(,"class")
 [1] "cred_token"
+[65a9f1e] 2021-02-25: Commit covid 2021-02-24 22:31:04
+Error in git2r::push() : 
+  Error in 'git2r_push': error authenticating: no auth sock variable
+Execution halted
