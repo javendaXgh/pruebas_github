@@ -306,3 +306,7 @@ $token
 
 attr(,"class")
 [1] "cred_token"
+[d923f93] 2021-02-25: Commit covid 2021-02-24 21:25:04
+Error in git2r::push(credentials = cred) : 
+  Error in 'git2r_push': unsupported URL protocol
+Execution halted
