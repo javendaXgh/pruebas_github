@@ -46,4 +46,5 @@ git2r::commit(repo,paste('Commit covid', Sys.time()))
 #git2r::libgit2_features()
 git2r::config(repo, user.name = 'javendaXgh',user.email = 'javendaXgh@gmail.com')
 
-git2r::push(credentials = cred)
+#git2r::push(credentials = cred)
+git2r::push()
